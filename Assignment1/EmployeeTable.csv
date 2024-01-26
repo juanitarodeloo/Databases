@@ -1,0 +1,7 @@
+﻿E#,Name,Age,Manager
+E1,Adams,50,
+E2,Blake,40,E1
+E3,Clark,35,E1
+E4,David,30,E3
+E5,Emily,25,E4
+E6,Last,20,E5
